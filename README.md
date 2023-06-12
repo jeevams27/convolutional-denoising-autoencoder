@@ -23,8 +23,8 @@ Pass test data for validating manually.
 Plot the predictions for visualization.
 ## PROGRAM:
 ```
-Developed By: MS jeeva
-Reg.No : 212221230040
+Developed By: MOTHESH M
+Reg.No : 212221230066
 ```
 ```python
 from tensorflow import keras
